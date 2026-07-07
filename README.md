@@ -1,5 +1,5 @@
 [![MasterHead](https://www.jariettech.com/images/_2120x615_crop_center-center_none/2595/banner-03.webp)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Gerardo</h1>
+<h1 align="center">Hi 👋, I'm Gerard</h1>
 <h3 align="center">A passionate GIS developer from the Democratic Republic of Congo</h3>
 <img align="right" alt="Coding" width="400" src="https://scontent.fkgl2-2.fna.fbcdn.net/v/t39.30808-1/502530433_1611747293526736_8319140071413598296_n.jpg?stp=c598.258.882.883a_dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeGCqHhy-EcGLkTfdogWEvasiBnVCCIQ5Y6IGdUIIhDljgiwRqmZh34EFu1Hl4MVQko9L8Pb6DxLR242T_PjLaqP&_nc_ohc=yVP0nX5_RC0Q7kNvwGqX3_w&_nc_oc=Adq4ei9S9nWTM7uje1H7NqBftPn59WANFRCD96ZhnZ_Edo9d7VeiXTie_XXLnOiYFxY&_nc_zt=24&_nc_ht=scontent.fkgl2-2.fna&_nc_gid=hjS6zQtPdWHz0dAVUD-LMQ&_nc_ss=7a3a8&oh=00_Af0hsghoEV-gN0-3ws7W9IM2Oi3DYTAxhtp3tMFLguZEng&oe=69DC36F6">
 
